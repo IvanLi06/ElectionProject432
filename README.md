@@ -1,3 +1,4 @@
+This application allows four different types of users(admins, members, officers, and employees) to interact with the election application depending on their level of authorization. Each level provides different functionality, some of which are exclusive to the type of user.
 
 # Roadmap
 
