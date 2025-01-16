@@ -1,4 +1,6 @@
-This application allows four different types of users(admins, members, officers, and employees) to interact with the election application depending on their level of authorization. Each level provides different functionality, some of which are exclusive to the type of user.
+Multi-level, multi-user election management application to handle customizable ballots for professional societies, supporting functionalities such as voting, election status tracking, and reporting.
+Role-based user authentication and authorization (Members, Officers, Employees, and Administrators), each with different access to ballot creation, editing, and result viewing.
+Utilized React for the frontend, Node.js for the backend, Sequelize for ORM and database management, and Swagger.io for documenting and developing the RESTful API
 
 # Roadmap
 
